@@ -11,5 +11,5 @@ git-jenkins-webhook
 #### TEST GOES HERE ###
 #### TEST GOES HERE ###
 
-push to trigger jenkins
+commit to trigger jenkins
 push to trigger jenkins
